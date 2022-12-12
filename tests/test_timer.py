@@ -1,6 +1,6 @@
 import time
 import pytest
-from src.timer.Timer import Timer
+from src.retimer import Timer
 
 class TestTimer:
     
