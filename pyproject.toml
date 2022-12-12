@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "timer"
+name = "retimer"
 version = "0.1.0"
 description = ""
 authors = ["henrique lino <henrique.lino97@gmail.com>"]
