@@ -1,4 +1,4 @@
-name: extendedjson CI
+name: retimer CI
 
 on:
   push:
