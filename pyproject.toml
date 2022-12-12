@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "retimer"
-version = "0.1.0.3"
+version = "0.1.0.4"
 description = ""
 authors = ["henrique lino <henrique.lino97@gmail.com>"]
 readme = "README.md"
@@ -15,6 +15,3 @@ pytest = "^7.2.0"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
-[scriv]
-format="md"
