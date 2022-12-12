@@ -1,4 +1,10 @@
 
+# 2022-12-12
+
+## v0.1.0.6 - Added
+
+- Testing scriv github-release
+
 # v0.1.0.5 -- 2022-12-12
 
 ## Changed
