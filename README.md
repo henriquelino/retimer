@@ -94,8 +94,8 @@ Refer to the [CHANGELOG.md](https://github.com/henriquelino/retimer/blob/main/CH
 [stars-image]: https://img.shields.io/github/stars/henriquelino/retimer
 [stars-url]: https://github.com/henriquelino/retimer
 
-[stars-image]: https://img.shields.io/github/stars/mathspp/extendedjson
-[stars-url]: https://github.com/mathspp/extendedjson
+[stars-image]: https://img.shields.io/github/stars/henriquelino/retimer
+[stars-url]: https://github.com/henriquelino/retimer
 
 [versions-image]: https://img.shields.io/pypi/pyversions/retimer
 [versions-url]: https://pypi.org/project/retimer/
