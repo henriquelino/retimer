@@ -15,7 +15,7 @@ You can [get `retimer` from PyPI](https://pypi.org/project/retimer),
 which means it's easily installable with `pip`:
 
 ```bash
-python -m pip install extendedjson
+python -m pip install retimer
 ```
 
 

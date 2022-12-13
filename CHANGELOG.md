@@ -1,7 +1,17 @@
 
-# 2022-12-12
+# v0.1.0.7 -- 2022-12-12
 
-## v0.1.0.6 - Added
+## Added
+
+- Link to repo in toml
+
+## Changed
+
+- readme pip install was using the package I used as example, fixed it
+
+# v0.1.0.6 - 2022-12-12
+
+## Added
 
 - Testing scriv github-release
 
