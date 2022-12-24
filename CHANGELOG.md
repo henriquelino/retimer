@@ -1,4 +1,14 @@
 
+# v0.1.0.9 -- 2022-12-23
+
+## Changed
+
+- tox was using outdated folder name
+
+## Fixed
+
+- Now using .Timer on __init__
+
 # v0.1.0.8 -- 2022-12-13
 Testing scriv
 
